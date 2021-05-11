@@ -6,13 +6,16 @@ body{
 }
 
 #left-column{
-    width: 50%;
+    width: 55%;
     float: left;
-    background-color:aqua;     
+    background: rgb(228,229,230);
+    background: linear-gradient(163deg, rgba(228,229,230,1) 6%, rgba(240,105,37,0.9296875) 64%, rgba(242,55,55,0.9633953651685393) 95%);
+    margin-left: 0% ;     
+    margin: 2px;
 }
 
 #right-column img{
-    width:230px;
+    width:250px;
     margin-left:140px;
     margin-top:100px;
 }
