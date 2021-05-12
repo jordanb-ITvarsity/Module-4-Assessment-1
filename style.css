@@ -12,6 +12,7 @@ body{
     background: linear-gradient(163deg, rgba(228,229,230,1) 6%, rgba(240,105,37,0.9296875) 64%, rgba(242,55,55,0.9633953651685393) 95%);
     margin-left: 0% ;     
     margin: 2px;
+    padding: 1%;
 }
 
 #right-column img{
